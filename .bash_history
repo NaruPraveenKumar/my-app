@@ -52,3 +52,72 @@ mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -Darchety
 ls
 cd my-app/
 ls -lrt
+ls
+cd my-app/
+git clone https://github.com/NaruPraveenKumar/my-app.git
+ls
+cd ..
+git clone https://github.com/NaruPraveenKumar/my-app.git
+git status
+git init
+git clone https://github.com/NaruPraveenKumar/my-app.git
+ls
+git status
+git add *
+git branch
+ld
+ls 
+cd my-app/
+ls
+git status
+git add *
+cd my-app/
+ls
+ls -lrt
+cd ..
+ls -lrt
+cd my-app
+ls -lrt
+cd ..
+ls -lrt
+cd my-app/
+ls -lrt
+rm -rf my-app/
+ls
+git clone https://github.com/NaruPraveenKumar/my-app.git
+ls
+cd my-app/
+ls
+git status
+cd ..
+ls -lrt
+rm -rf my-app/
+ls -lrt
+git status
+git add *
+git status
+git commit "first commit" *
+git commit "first commit" 
+git commit -m "first commit" 
+git status
+git push origin master
+ls
+cd ..
+git status
+git add .
+git status
+git commit -m "adding new files"
+git push origin master
+git push
+git push origin https://github.com/NaruPraveenKumar/my-app.git
+git branch
+git status
+git remote add origin https://github.com/NaruPraveenKumar/my-app.git
+ls
+cd /my-
+cd /my-app
+cd my-app/
+ls
+cd ..
+git branch
+exit
